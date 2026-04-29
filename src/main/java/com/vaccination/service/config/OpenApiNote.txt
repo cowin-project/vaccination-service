@@ -1,0 +1,2 @@
+JWT is assumed to be validated upstream by API Gateway.
+This service trusts userId supplied in request payload/path.
